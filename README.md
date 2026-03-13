@@ -1,2 +1,1 @@
-# Tworzę i się edukuje
-Testuję, uczę się i edukuje
+#testuję, uczę się, szkole i czytam
