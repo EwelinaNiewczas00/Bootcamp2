@@ -38,3 +38,4 @@ git add . (dodaje wszystko, co nowe)
 git commit -m "opis co dodalas"
 
 git push
+
